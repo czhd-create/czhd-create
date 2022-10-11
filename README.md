@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @czhd-create
-- 👀 I’m interested in data analytics, data integration, application development.
-- 🌱 I’m currently learning to become better at my job, and learning new technologies.
+- ✨ I'm a Research Assistant in SUTD Language and Social Cognition Lab.
+- 👀 I’m interested in data analytics, R, and new technologies in general.
+- 🌱 The reason I am using Github is to build up a nice repository of code which I have found useful.
 - 💞️ I’m looking to collaborate on IT developers, Data Engineers, Application developers :)
 - 📫 How to connect with me (Linkedin): https://www.linkedin.com/in/cheongdaniel5090911b9 (sorry it is down at this momment).
 
