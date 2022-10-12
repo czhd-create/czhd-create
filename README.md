@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @czhd-create
 - ✨ I'm a Research Assistant in SUTD Language and Social Cognition Lab.
 - 👀 I’m interested in data analytics, R, and new technologies in general.
-- 🌱 The reason I am using Github is to store code I have found useful. Hope you find it useful ✂️ Copy and 📋 Paste 👌
+- 🌱 Check out my R_Scripts repository. Hope you find it useful ✂️ Copy and 📋 Paste 👌
 
 <!---- 
 💞️ I’m willing to collaborate on IT developers, Data Engineers, Application developers :)
