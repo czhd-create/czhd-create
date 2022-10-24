@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @czhd-create
-- ✨ I'm a Research Assistant in SUTD Language and Social Cognition Lab.
+- ✨ Research Assistant in SUTD Language and Social Cognition Lab
+- 🎓 BSc in Science (Statistics)
 - 👀 I’m interested in data analytics, R, and new technologies in general.
 - 🌱 Check out my R_Scripts repository. Feel free to ✂️ copy and 📋 paste. Hope you find it useful. 👌
 
