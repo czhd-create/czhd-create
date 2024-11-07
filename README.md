@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @czhd-create
-- ✨ 
+- ✨ I am currently a Research Assistant at the National University of Singapore.
 - 🎓 BSc in Science (Statistics)
 - 👀 I’m interested in data analytics, R programming, and new technologies in general.
 - 🌱 ...
