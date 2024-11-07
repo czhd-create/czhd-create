@@ -3,7 +3,6 @@
 - 🎓 BSc in Science (Statistics)
 - 👀 I’m interested in data analytics, R programming, and new technologies in general.
 - 🌱 ...
-- ⚒️ Works in progress: R_Scripts_Medical_Stats
 - 🌈 ...
 
 <!---- 
