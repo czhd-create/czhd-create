@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Daniel Cheong. Thank you for visiting my GitHub page.
 - ✨ Current work: Learning about artificial intelligence tools (AI for Science) at the National University of Singapore.
-- If you are keen to know about the above AI for science programme, go to:([https://www.physics.nus.edu.sg/student/msc-ai-for-science])
+- For information on AI for science programme, go to:([https://www.physics.nus.edu.sg/student/msc-ai-for-science])
 - 👀 I’m interested in data analytics, coding, AI, and new technologies in general.
 - 🌱 Other interests: Automated data collection, Bayesian probabilities
 - 🌈 Reminder to self: Choose to be positive. Find and work with like-minded people.
