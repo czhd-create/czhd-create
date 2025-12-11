@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @czhd-create
-- ✨ I am currently studying Artificial Intelligence (AI for Science) at the National University of Singapore.
+- 👋 Hi, I’m Daniel
+- ✨ Current work: Study artificial intelligence tools (AI for Science) at the National University of Singapore.
 - 🎓 BSc in Science (Statistics)
 - 👀 I’m interested in data analytics, R programming, and new technologies in general.
 - 🌱 Other interests: Automated data collection, Bayesian probabilities
