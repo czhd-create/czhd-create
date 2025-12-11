@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel
 - ✨ Current work: Study artificial intelligence tools (AI for Science) at the National University of Singapore.
-- 🎓 BSc in Science (Statistics)
+- If you are keen to know about the above AI for science programme: [Link] ([https://www.physics.nus.edu.sg/student/msc-ai-for-science])
 - 👀 I’m interested in data analytics, R programming, and new technologies in general.
 - 🌱 Other interests: Automated data collection, Bayesian probabilities
 - 🌈 Reminder to self: Choose to be positive. Find and work with like-minded people.
