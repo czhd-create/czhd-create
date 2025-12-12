@@ -4,7 +4,7 @@
 - 👀 I’m interested in data analytics, coding, AI, and new technologies in general.
 - 🌱 Other interests: Automated data collection, Bayesian probabilities, Astronomy (because it fills me with awe!)
 - 🌈 Reminder to self: Choose to be positive. Find and work with like-minded people.
-- Free to connect with me and drop a message on LinkedIn
+- Feel free to connect with me and drop a message on LinkedIn
 
 📫 Linkedin: ([https://www.linkedin.com/in/daniel-cheong-sgp/])
 
